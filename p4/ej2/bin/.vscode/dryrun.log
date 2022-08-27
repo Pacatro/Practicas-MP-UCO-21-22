@@ -1,0 +1,8 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: se ingresa al directorio `g:/UCO/mp/estudio/p4/Nueva carpeta'
+gcc -o crea creaBinario.c
+ 
+gcc -o visualiza visualiza.c
+ 
+make.exe: se sale del directorio `g:/UCO/mp/estudio/p4/Nueva carpeta'
+ 

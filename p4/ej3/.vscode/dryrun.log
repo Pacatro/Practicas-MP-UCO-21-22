@@ -1,0 +1,5 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: se ingresa al directorio `g:/UCO/mp/estudio/p4/ej3'
+gcc ej3.c funciones.c -o ej3_estudio.exe
+make.exe: se sale del directorio `g:/UCO/mp/estudio/p4/ej3'
+ 

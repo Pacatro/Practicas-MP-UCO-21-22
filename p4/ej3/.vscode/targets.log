@@ -1,0 +1,355 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# Este es software libre; consulte en el c�digo fuente las condiciones de copia.
+# NO hay garant�a; ni siquiera para MERCANTIBILIDAD o EL CUMPLIMIENTO DE
+# ALG�N PROP�SITO PARTICULAR.
+
+ # Este programa fue construido para i386-pc-mingw32
+ 
+
+# Base de datos del Make, mostrada en Sat Aug 27 01:56:26 2022
+
+# Variables
+
+# autom�tica/o
+<D = $(patsubst %/,%,$(dir $<))
+# autom�tica/o
+?F = $(notdir $?)
+# makefile
+MAKEFLAGS = Rrqp
+# autom�tica/o
+?D = $(patsubst %/,%,$(dir $?))
+# autom�tica/o
+@D = $(patsubst %/,%,$(dir $@))
+# entorno
+HOMEDRIVE = C:
+# autom�tica/o
+@F = $(notdir $@)
+# autom�tica/o
+^D = $(patsubst %/,%,$(dir $^))
+# makefile
+CURDIR := g:/UCO/mp/estudio/p4/ej3
+# por defecto
+SHELL := sh.exe
+# entorno
+WINDIR = C:\WINDOWS
+# entorno
+VSCODE_NLS_CONFIG = {"locale":"es","availableLanguages":{"*":"es"},"_languagePackId":"9336b18a2694f1b71e2417b4e335df52.es","_translationsConfigFile":"C:\\Users\\Paco Algar Mu�oz\\AppData\\Roaming\\Code\\clp\\9336b18a2694f1b71e2417b4e335df52.es\\tcf.json","_cacheRoot":"C:\\Users\\Paco Algar Mu�oz\\AppData\\Roaming\\Code\\clp\\9336b18a2694f1b71e2417b4e335df52.es","_resolvedLanguagePackCoreLocation":"C:\\Users\\Paco Algar Mu�oz\\AppData\\Roaming\\Code\\clp\\9336b18a2694f1b71e2417b4e335df52.es\\e4503b30fc78200f846c62cf8091b76ff5547662","_corruptedFile":"C:\\Users\\Paco Algar Mu�oz\\AppData\\Roaming\\Code\\clp\\9336b18a2694f1b71e2417b4e335df52.es\\corrupted.info","_languagePackSupport":true}
+# entorno
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+# entorno
+ONEDRIVE = C:\Users\Paco Algar Mu�oz\OneDrive
+# entorno
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# makefile (de `makefile', l�nea 1):
+MAKEFILE_LIST :=  makefile
+# entorno
+RG_UNIVERSE_FRAMEWORK_RESOURCEDIR = C:\Program Files\Red Giant\RGFX
+# entorno
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# entorno
+TMP = C:\Users\PACOAL~1\AppData\Local\Temp
+# entorno
+SNP = https://%66%65%65%64.%68%65%6C%70%65%72%62%61%72.%63%6F%6D?publisher=APSFWakeNet&co=ES&userid=1c76a1fe-8d49-508e-0734-07448d7f4b48&searchtype=sc&installDate=21/07/2020&barcodeid=51198003&channelid=003&av=windows
+# entorno
+PROGRAMW6432 = C:\Program Files
+# entorno
+SNE = https://feed.sonic-search.com/?publisher=APSFWakeNet&co=ES&userid=1c76a1fe-8d49-508e-0734-07448d7f4b48&searchtype=ds&q={searchTerms}&installDate=21/07/2020&barcodeid=51198003&channelid=003&av=windows& --load-extension="C:\Users\Paco Algar Mu�oz\AppData\Local\app"
+# entorno
+PROGRAMDATA = C:\ProgramData
+# entorno
+VSCODE_CWD = G:\UCO\mp\estudio\p4\ej3
+# entorno
+PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Calibre2\;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C;C:\Program Files (x86)\GnuWin32\bin;C;C:\Program Files\Git\cmd;C:\ffmpeg\bin;C:\Program Files\nodejs\;C:\Users\Paco Algar Mu�oz\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Paco Algar Mu�oz\AppData\Local\Programs\Python\Python310\;C:\Users\Paco Algar Mu�oz\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Paco Algar Mu�oz\AppData\Local\Programs\Python\Python39\;C:\Users\Paco Algar Mu�oz\AppData\Local\Programs\Microsoft VS Code\bin;;C:\Users\Paco Algar Mu�oz\spicetify-cli;C:\Users\Paco Algar Mu�oz\AppData\Local\Programs\oh-my-posh\bin;C:\Users\Paco Algar Mu�oz\AppData\Roaming\npm
+# entorno
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# entorno
+PROCESSOR_ARCHITECTURE = x86
+# entorno
+USERPROFILE = C:\Users\Paco Algar Mu�oz
+# entorno
+ALLUSERSPROFILE = C:\ProgramData
+# entorno
+NUMBER_OF_PROCESSORS = 6
+# entorno
+ELECTRON_RUN_AS_NODE = 1
+# por defecto
+.FEATURES := target-specific order-only second-expansion else-if archives
+# autom�tica/o
+%F = $(notdir $%)
+# entorno
+POSH_THEMES_PATH = C:\Users\Paco Algar Mu�oz\AppData\Local\Programs\oh-my-posh\themes
+# entorno
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_12704_RYSYKUCGUFQXSRFN
+# entorno
+COMPUTERNAME = PC-PACO
+# entorno
+PROGRAMFILES = C:\Program Files (x86)
+# entorno
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# entorno
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# entorno
+USERNAME = Paco Algar Mu�oz
+# entorno
+PUBLIC = C:\Users\Public
+# entorno
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# entorno
+VSCODE_CODE_CACHE_PATH = C:\Users\Paco Algar Mu�oz\AppData\Roaming\Code\CachedData\e4503b30fc78200f846c62cf8091b76ff5547662
+# entorno
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# entorno
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# entorno
+LOGONSERVER = \\PC-PACO
+# entorno
+RG_GPU_FRAMEWORK_ENGINE_RESOURCEDIR = C:\Program Files\Red Giant\RGFX
+# entorno
+ONEDRIVECONSUMER = C:\Users\Paco Algar Mu�oz\OneDrive
+# entorno
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# entorno
+USERDOMAIN = PC-PACO
+# entorno
+MIC_LD_LIBRARY_PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+# entorno
+MAKELEVEL := 0
+# por defecto
+MAKE = $(MAKE_COMMAND)
+# por defecto
+MAKECMDGOALS := all
+# por defecto
+MAKE_VERSION := 3.81
+# makefile
+.DEFAULT_GOAL := compilar
+# entorno
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# autom�tica/o
+%D = $(patsubst %/,%,$(dir $%))
+# entorno
+LOCALAPPDATA = C:\Users\Paco Algar Mu�oz\AppData\Local
+# entorno
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Intel\Wired Networking\
+# por defecto
+MAKE_COMMAND := make.exe
+# entorno
+PROCESSOR_ARCHITEW6432 = AMD64
+# por defecto
+.VARIABLES := 
+# autom�tica/o
+*F = $(notdir $*)
+# entorno
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+# entorno
+OS = Windows_NT
+# entorno
+VSCODE_IPC_HOOK = \\.\pipe\af58d5102df213861ad474f254a78cae-1.70.2-main-sock
+# entorno
+HOMEPATH = \Users\Paco Algar Mu�oz
+# entorno
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# entorno
+PROMPT = $P$G
+# entorno
+MFLAGS = -Rrqp
+# autom�tica/o
+*D = $(patsubst %/,%,$(dir $*))
+# entorno
+INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+# entorno
+SYSTEMROOT = C:\WINDOWS
+# autom�tica/o
++D = $(patsubst %/,%,$(dir $+))
+# autom�tica/o
++F = $(notdir $+)
+# entorno
+APPDATA = C:\Users\Paco Algar Mu�oz\AppData\Roaming
+# entorno
+TEMP = C:\Users\PACOAL~1\AppData\Local\Temp
+# entorno
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# por defecto
+MAKEFILES := 
+# autom�tica/o
+<F = $(notdir $<)
+# entorno
+LC_ALL = C
+# autom�tica/o
+^F = $(notdir $^)
+# por defecto
+SUFFIXES := 
+# entorno
+SYSTEMDRIVE = C:
+# entorno
+SESSIONNAME = Console
+# entorno
+PROCESSOR_REVISION = 9e0a
+# entorno
+SNF = C:\ProgramData\Quoteexs\snp.sc
+# entorno
+LANG = C
+# entorno
+PROCESSOR_LEVEL = 6
+# entorno
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# entorno
+VSCODE_PID = 12704
+# entorno
+USERDOMAIN_ROAMINGPROFILE = PC-PACO
+# estad�sticas del conjunto de variables de la tabla de hash:
+# Carga=93/1024=9%, Rehash=0, Colisiones=12/113=11%
+
+# Valores de variables espec�ficas al patr�n
+
+# No hay valores de variables espec�ficas al patr�n.
+
+# Directorios
+
+# : podr�a no estar establecido.
+# C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler (llave C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler, mtime 1552784667): 17 archivos, no imposibilidades.
+# C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\ (llave C:/Program Files (x86)/Intel/Intel(R) Management Engine Components/iCLS/, mtime 1535388650): 8 archivos, no imposibilidades.
+# C:\Users\Paco Algar Mu�oz\spicetify-cli (llave C:/Users/Paco Algar Mu�oz/spicetify-cli, mtime 1645056173): 9 archivos, no imposibilidades.
+# C:\Windows\System32\WindowsPowerShell\v1.0\ (llave C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1615590330): 30 archivos, no imposibilidades.
+# C:\Windows\System32\Wbem (llave C:/Windows/System32/Wbem, mtime 1658093353): 154 archivos, no imposibilidades.
+# . (llave g:/UCO/mp/estudio/p4/ej3, mtime 1654964152): 10 archivos, no imposibilidades.
+# C:\Users\Paco Algar Mu�oz\AppData\Local\Programs\Python\Python310\ (llave C:/Users/Paco Algar Mu�oz/AppData/Local/Programs/Python/Python310/, mtime 1660433401): 20 archivos, no imposibilidades.
+# C:\Program Files\nodejs\ (llave C:/Program Files/nodejs/, mtime 1659959798): 13 archivos, no imposibilidades.
+# C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common (llave C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common, mtime 1584306144): 10 archivos, no imposibilidades.
+# C:\Users\Paco Algar Mu�oz\AppData\Local\Programs\Python\Python310\Scripts\ (llave C:/Users/Paco Algar Mu�oz/AppData/Local/Programs/Python/Python310/Scripts/, mtime 1660953953): 68 archivos, no imposibilidades.
+# C:\Users\Paco Algar Mu�oz\AppData\Local\Programs\Microsoft VS Code\bin (llave C:/Users/Paco Algar Mu�oz/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1660908970): 4 archivos, no imposibilidades.
+# C:\ffmpeg\bin (llave C:/ffmpeg/bin, mtime 1658398931): 5 archivos, no imposibilidades.
+# C:\Program Files\dotnet\ (llave C:/Program Files/dotnet/, mtime 1607190376): 10 archivos, no imposibilidades.
+# C:\Users\Paco Algar Mu�oz\AppData\Roaming\npm (llave C:/Users/Paco Algar Mu�oz/AppData/Roaming/npm, mtime 1659962519): 27 archivos, no imposibilidades.
+# C: podr�a no estar establecido.
+# C:\Program Files\Microsoft SQL Server\130\Tools\Binn\ (llave C:/Program Files/Microsoft SQL Server/130/Tools/Binn/, mtime 1594059245): 4 archivos, no imposibilidades.
+# C:\Program Files\Intel\Intel(R) Management Engine Components\IPT (llave C:/Program Files/Intel/Intel(R) Management Engine Components/IPT, mtime 1535388647): 5 archivos, no imposibilidades.
+# C:\Windows\System32\OpenSSH\: podr�a no estar establecido.
+# C:\Program Files (x86)\Common Files\Oracle\Java\javapath (llave C:/Program Files (x86)/Common Files/Oracle/Java/javapath, mtime 1658573681): 5 archivos, no imposibilidades.
+# C:\Program Files\Intel\Intel(R) Management Engine Components\DAL (llave C:/Program Files/Intel/Intel(R) Management Engine Components/DAL, mtime 1535388647): 4 archivos, no imposibilidades.
+# C:\Windows (llave C:/Windows, mtime 1660921600): 123 archivos, no imposibilidades.
+# C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\ (llave C:/Program Files/Intel/Intel(R) Management Engine Components/iCLS/, mtime 1535388650): 11 archivos, no imposibilidades.
+# C:\Users\Paco Algar Mu�oz\AppData\Local\Programs\Python\Python39\ (llave C:/Users/Paco Algar Mu�oz/AppData/Local/Programs/Python/Python39/, mtime 1660420931): 6 archivos, no imposibilidades.
+# C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin (llave C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin, mtime 1638389672): 58 archivos, no imposibilidades.
+# C:\Program Files (x86)\Calibre2\ (llave C:/Program Files (x86)/Calibre2/, mtime 1630021467): 24 archivos, no imposibilidades.
+# C:\Users\Paco Algar Mu�oz\AppData\Local\Programs\Python\Python39\Scripts\ (llave C:/Users/Paco Algar Mu�oz/AppData/Local/Programs/Python/Python39/Scripts/, mtime 1659209457): 55 archivos, no imposibilidades.
+# C:\Users\Paco Algar Mu�oz\AppData\Local\Programs\oh-my-posh\bin (llave C:/Users/Paco Algar Mu�oz/AppData/Local/Programs/oh-my-posh/bin, mtime 1659397632): 3 archivos, no imposibilidades.
+# C:\Program Files\Git\cmd (llave C:/Program Files/Git/cmd, mtime 1658493307): 8 archivos, no imposibilidades.
+# C:\Windows\system32 (llave C:/Windows/system32, mtime 1661357814): 3070 archivos, no imposibilidades.
+# C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT (llave C:/Program Files (x86)/Intel/Intel(R) Management Engine Components/IPT, mtime 1535388647): 6 archivos, no imposibilidades.
+# C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR (llave C:/Program Files/NVIDIA Corporation/NVIDIA NvDLISR, mtime 1543762155): 5 archivos, no imposibilidades.
+# C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL (llave C:/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL, mtime 1535388647): 10 archivos, no imposibilidad 
+es.
+# C:\Program Files (x86)\GnuWin32\bin (llave C:/Program Files (x86)/GnuWin32/bin, mtime 1654941758): 5 archivos, no imposibilidades.
+
+# 3787 archivos, no imposibilidades en 34 directorios.
+
+# Reglas impl�citas.
+
+# No hay reglas impl�citas.
+
+# Archivos
+
+# No es un objetivo:
+all:
+#  Objetivo de l�nea de instrucciones.
+#  La b�squeda de reglas impl�citas ha sido efectuada.
+#  El archivo no existe.
+#  El archivo ha sido actualizado.
+# estad�sticas del conjunto de variables de la tabla de hash:
+# Carga=0/32=0%, Rehash=0, Colisiones=0/0=0%
+
+# No es un objetivo:
+.DEFAULT:
+#  La b�squeda de reglas impl�citas ha sido efectuada.
+#  La fecha de modificaci�n no se comprob�.
+#  El archivo ha sido actualizado.
+
+# No es un objetivo:
+funciones.c:
+#  La b�squeda de reglas impl�citas ha sido efectuada.
+#  La fecha de modificaci�n no se comprob�.
+#  El archivo ha sido actualizado.
+
+# No es un objetivo:
+ej3.c:
+#  La b�squeda de reglas impl�citas ha sido efectuada.
+#  La fecha de modificaci�n no se comprob�.
+#  El archivo ha sido actualizado.
+
+# No es un objetivo:
+binario.txt:
+#  La b�squeda de reglas impl�citas ha sido efectuada.
+#  La fecha de modificaci�n no se comprob�.
+#  El archivo ha sido actualizado.
+
+# No es un objetivo:
+makefile:
+#  La b�squeda de reglas impl�citas ha sido efectuada.
+#  �ltima modificaci�n 2022-06-11 19:12:36
+#  El archivo ha sido actualizado.
+#  Actualizado con �xito.
+# estad�sticas del conjunto de variables de la tabla de hash:
+# Carga=0/32=0%, Rehash=0, Colisiones=0/0=0%
+
+# No es un objetivo:
+ej3_estudio.exe:
+#  La b�squeda de reglas impl�citas ha sido efectuada.
+#  La fecha de modificaci�n no se comprob�.
+#  El archivo ha sido actualizado.
+
+# No es un objetivo:
+funciones.h:
+#  La b�squeda de reglas impl�citas ha sido efectuada.
+#  La fecha de modificaci�n no se comprob�.
+#  El archivo ha sido actualizado.
+
+ejecutar-descendente: ej3_estudio.exe binario.txt
+#  La b�squeda de reglas impl�citas ha sido efectuada.
+#  La fecha de modificaci�n no se comprob�.
+#  El archivo ha sido actualizado.
+#  comandos para ejecutar (de `makefile', linea 8):
+	./ej3_estudio.exe 2 binario.txt
+	
+
+# No es un objetivo:
+.SUFFIXES:
+#  La b�squeda de reglas impl�citas ha sido efectuada.
+#  La fecha de modificaci�n no se comprob�.
+#  El archivo ha sido actualizado.
+
+ejecutar-ascendente: ej3_estudio.exe binario.txt
+#  La b�squeda de reglas impl�citas ha sido efectuada.
+#  La fecha de modificaci�n no se comprob�.
+#  El archivo ha sido actualizado.
+#  comandos para ejecutar (de `makefile', linea 5):
+	./ej3_estudio.exe 1 binario.txt 
+	
+
+compilar: ej3.c funciones.c funciones.h
+#  La b�squeda de reglas impl�citas ha sido efectuada.
+#  La fecha de modificaci�n no se comprob�.
+#  El archivo ha sido actualizado.
+#  comandos para ejecutar (de `makefile', linea 2):
+	gcc ej3.c funciones.c -o ej3_estudio.exe
+	
+
+# estad�sticas de la tabla de hash de los archivos:
+# Carga=12/1024=1%, Rehash=0, Colisiones=0/30=0%
+# Rutas de b�squeda VPATH
+
+# No hay rutas de b�squeda `vpath'.
+
+# No hay ruta de b�squeda general (variable `VPATH').
+
+# # of strings in strcache: 1
+# # of strcache buffers: 1
+# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
+# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
+
+# Se termina la base de datos de Make en Sat Aug 27 01:56:26 2022
+
+ 
+make.exe: *** No hay ninguna regla para construir el objetivo `all'.  Alto.
+

@@ -1,0 +1,7 @@
+make.exe --dry-run --keep-going --print-directory
+make.exe: se ingresa al directorio `g:/UCO/mp/estudio/p4'
+ 
+make.exe: *** No se especific� ning�n objetivo y no se encontr� ning�n makefile.  Alto.
+
+make.exe: se sale del directorio `g:/UCO/mp/estudio/p4'
+ 
